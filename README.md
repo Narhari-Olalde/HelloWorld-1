@@ -5,6 +5,9 @@
 
 ## Ingeniera en Ciencia de Datos y Matemáticas
 
+## Narhari Olalde 
+
+##Ingeniero en tecnologias computacionales
 
 > blockquote
 > First item
